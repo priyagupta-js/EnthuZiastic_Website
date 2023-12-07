@@ -1,5 +1,5 @@
 # EnthuZiastic_Website
 
-# link of the website :
+ -> link of the website :
 
-<a href="https://smiling-amplified-petalite.glitch.me/dist/"> Click here </a>
+<a href="https://smiling-amplified-petalite.glitch.me/dist/" target="_blank"> Click here </a>
